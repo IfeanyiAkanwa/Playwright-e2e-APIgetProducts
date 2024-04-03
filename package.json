@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "e2e": "npx playwright test tests/Greenkart.spec.js",
+    "e2e": "npx playwright test tests/Greenkart.spec.js" ,
     "robotto": "npx playwright test tests/robotto.spec.js"
   },
   "keywords": [],
