@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "e2e": "npm playwright test tests/Greenkart.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
